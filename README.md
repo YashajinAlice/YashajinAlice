@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-    <a href="https://github.com/Ree6-Applications">
+    <a href="https://discord.gg/Vww8pjQhZD">
         <img src="https://avatars.githubusercontent.com/u/138005616?s=400&u=3c7add3268682cde29cb342957ab8ef8ebd86b84&v=4" alt="Logo" width=250px>
     </a>
   <br>
@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://discord.gg/Vww8pjQhZD">
-    <img src="https://discord.gg/Vww8pjQhZD" alt="Discord">
+    <img src="ttps://img.shields.io/discord/805149057004732457?logo=discord&style=for-the-badge" alt="Discord">
   </a>
 </p>
 <br>
