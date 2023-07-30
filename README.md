@@ -1,5 +1,5 @@
 
-<h1 align="center">Ree6 Applications</h1>
+<h1 align="center">A_L_I_C_E</h1>
 
 <p align="center">
   <br>
