@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-    <a href="https://github.com/YashajinAlice">
+    <a href="https://github.com/Ree6-Applications">
         <img src="https://avatars.githubusercontent.com/u/138005616?s=400&u=3c7add3268682cde29cb342957ab8ef8ebd86b84&v=4" alt="Logo" width=250px>
     </a>
   <br>
