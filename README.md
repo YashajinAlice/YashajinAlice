@@ -1,7 +1,7 @@
 <h1 align="center">Fu.lin</h1>
 
 <p align="center">
-  <a href="https://discord.gg/Vww8pjQhZD">
+  <a href="https://discord.gg/ZcndthM7FH">
     <img src="https://avatars.githubusercontent.com/u/138005616?s=400&u=3c7add3268682cde29cb342957ab8ef8ebd86b84&v=4" alt="Logo" width=250px>
   </a>
 </p>
@@ -9,7 +9,7 @@
 <p align="center">一名半自由業者</p>
 
 <p align="center">
-  <a href="https://discord.gg/Vww8pjQhZD">
+  <a href="https://discord.gg/ZcndthM7FH">
     <img src="https://img.shields.io/discord/805149057004732457?logo=discord&style=for-the-badge" alt="Discord">
   </a>
 </p>
@@ -25,7 +25,7 @@
 > 如果機器人有任何問題，歡迎透過 DC 群組來與我聯繫！
 
 <p align="center">
-  <a href="https://discord.gg/Vww8pjQhZD">
+  <a href="https://discord.gg/ZcndthM7FH">
     <img alt="Discord" width="30px" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/discord.png">
   </a>
 </p>
