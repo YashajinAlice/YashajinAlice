@@ -35,7 +35,3 @@
 <p align="center">
   <em>我們不屬於任何一個團體，也不進行任何營收相關！</em>
 </p>
-
-<p align="center">
-  <sub>Heavily inspired by <a href="https://github.com/crunchy-lab">crunchy-lab</a></sub>
-</p>
