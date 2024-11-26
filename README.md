@@ -1,37 +1,33 @@
-<h1 align="center">Fu.lin</h1>
+# 🌟 𝓕𝓾𝓛𝓲𝓷-𝓷𝓮𝓽
+
+![Project Banner](https://pbs.twimg.com/media/GQfND4LW8AAMfuN?format=jpg&name=900x900)
+
+## 📋 可接受委託項目
+
+- Discord伺服器託管兼管理
+- Discord伺服器專屬Bot
+- 工程開發
+- 電商（尚在考慮）
+- LineBot開發
+- 平面設計
+- 廣告設計
+- 遊戲邏輯開發（Unity）
+
 
 <p align="center">
-  <a href="https://discord.gg/ZcndthM7FH">
-    <img src="https://avatars.githubusercontent.com/u/138005616?s=400&u=3c7add3268682cde29cb342957ab8ef8ebd86b84&v=4" alt="Logo" width=250px>
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+FuLin-net!;Discord+BOT+Developer" />
+</p>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=YashajinAlice&theme=github-compact&hide_border=true&area=true">
+<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashajinAlice&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,html,js,discord,md&theme=light" />
 </p>
 
-<p align="center">一名半自由業者</p>
+## 📝 FuLin-net Team
 
-<p align="center">
-  <a href="https://discord.gg/ZcndthM7FH">
-    <img src="https://img.shields.io/discord/805149057004732457?logo=discord&style=for-the-badge" alt="Discord">
-  </a>
-</p>
+Dev：芙檁（YashajinAlice）
 
----
-
-## Hey there! <img alt="hand_wave" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/wave.gif" height="25px" width="25px" />
-> 嗨！我是 Alice ，一個小型開發者，我在開發和製作 Discord 機器人和相關軟體！
-
----
-
-## Contacts
-> 如果機器人有任何問題，歡迎透過 DC 群組來與我聯繫！
-
-<p align="center">
-  <a href="https://discord.gg/ZcndthM7FH">
-    <img alt="Discord" width="30px" src="https://raw.githubusercontent.com/DxsSucuk/DxsSucuk/main/assets/discord.png">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>我們不屬於任何一個團體，也不進行任何營收相關！</em>
-</p>
