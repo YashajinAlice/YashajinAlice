@@ -22,7 +22,7 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>名稱:</b> 福利</li>
+ <b>名稱:</b> 芙檁</li>
 <li>
 <b>興致:</b> 除了學習編程外就只有玩遊戲吧...
 </li>
